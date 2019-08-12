@@ -37,7 +37,7 @@
 ```
 
 # golang实现
-参见[链接](https://github.com/tptpp/sign-in-with-apple/main.go)
+参见[代码](https://github.com/tptpp/sign-in-with-apple/blob/master/main.go)
 
 # 遇到的问题
 
