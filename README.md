@@ -1,3 +1,5 @@
+> 版权声明：本文为原创文章，未经允许不得转载。 https://blog.csdn.net/tptpppp/article/details/99288426
+
 # 概述
 本文是对AppleID登录接入的相关总结，希望对其他人能有帮助。
 
